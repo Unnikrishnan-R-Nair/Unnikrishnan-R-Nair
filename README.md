@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Unnikrishnan-R-Nair
+- 👋 Hi, I’m Unnikrishnan R Nair
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Python Django Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
