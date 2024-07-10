@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Unnikrishnan R Nair
-- 🌟 Python Django Full Stack Web Developver
+- 🌟 Python Django Full Stack Web Developer
 - 🌱 I’m currently learning DSA and React
 - 📫 How to reach me [https://www.linkedin.com/in/unnikrishnan-rajendran-3665a11aa/]
 
